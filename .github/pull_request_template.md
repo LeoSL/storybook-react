@@ -1,42 +1,15 @@
-## Status
-**READY/IN DEVELOPMENT/HOLD**
+## 💡Basic
 
-## Migrations
-YES | NO
+- [JIRA ticket](https://coinsquare.atlassian.net/browse/COINX-)
 
-## Description
-A few sentences describing the overall goals of the pull request's commits.
+## 📝Description & implementation details
 
-## Related PRs
-List related PRs against other branches:
+_A few sentences describing the overall goals of the pull request's commits._
 
-branch | PR
------- | ------
-other_pr_production | [link]()
-other_pr_master | [link]()
+## 🧪Verification steps
 
+_Outline the steps to test or reproduce the PR._
 
-## Todos
-- [ ] Tests
-- [ ] Documentation
+## 📸Screenshots
 
-
-## Deploy Notes
-Notes regarding deployment the contained body of work.  These should note any
-db migrations, etc.
-
-## Steps to Test or Reproduce
-Outline the steps to test or reproduce the PR here.
-
-```sh
-git pull --prune
-git checkout <feature_branch>
-bundle; script/server
-```
-
-1. 
-
-## Impacted Areas in Application
-List general components of the application that this PR will affect:
-
-* 
+_When applicable, please provide screenshot of the screen (CoinsquareX or Storybook's)_
