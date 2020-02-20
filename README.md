@@ -1,4 +1,4 @@
-# storybook-react
+# 🧪storybook-react experiment
 React App with detached Storybook (Manually installed) in the same repository
 
 ## 🏎 To Run
